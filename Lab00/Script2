@@ -1,0 +1,10 @@
+#!/bin/bash
+
+Value=$1
+
+while (($Value != 0)); do
+  echo $Value
+  Value=$[$Value - 1]
+done
+
+echo 0

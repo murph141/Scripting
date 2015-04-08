@@ -1,0 +1,12 @@
+#!/bin/bash
+
+Value=$1
+
+while (($Value != 0)); do
+  if (($Value % 3 == 0)); then
+    echo $Value;
+  fi
+  Value=$[$Value - 1]
+done
+
+echo 0
