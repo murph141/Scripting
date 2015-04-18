@@ -1,0 +1,13 @@
+a.out
+bad_sim.c
+file_list
+gold_sim_out.txt
+process_temps.bash
+quick_sim.c
+run.bash
+stats.txt
+svncheck.bash
+tempsA
+tempsB
+test.sh
+yards.bash
